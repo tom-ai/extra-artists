@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "extra-artists",
+    "slug": "extra-artists",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
